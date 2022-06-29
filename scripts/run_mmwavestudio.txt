@@ -1,0 +1,2 @@
+cmd /C "mmWaveStudio.exe /lua "C:\Users\oyvindmb\OpenRadar\scripts\1443_mmwavestudio_config.lua"
+
